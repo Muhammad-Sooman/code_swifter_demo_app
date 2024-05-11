@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054483254744",
+    "project_id": "code-swifter-demo-app",
+    "storage_bucket": "code-swifter-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054483254744:android:0e826c3319d77c127d36ad",
+        "android_client_info": {
+          "package_name": "com.example.code_swifter_demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZ7duDEIA5Mm6I6YfgybqXLvMN4AR1Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
